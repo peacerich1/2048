@@ -63,7 +63,7 @@ class Hoved{
 	}
 	
 	
-	void random(){//Feil???
+	void random(){
 		int randomTall;
 		int randomN = (int)(Math.random()*str);
 		int randomM = (int)(Math.random()*str);
