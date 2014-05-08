@@ -1,9 +1,0 @@
-
-public class Knapp {
-	int verdi;
-	
-	Knapp(){
-		
-	}
-	
-}
